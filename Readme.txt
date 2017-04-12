@@ -2,7 +2,7 @@ Document author: Nikhilesh Kshirsagar
 
 Following are the steps to run the Bully algorithm for election in distributed systems
 
-- Transfer the file bullyLeaderElection.java to glados servers 
+- Transfer the file bullyLeaderElection.java any server
 
 - Compile the file on the server using command
 	java bullyLeaderElection.java
